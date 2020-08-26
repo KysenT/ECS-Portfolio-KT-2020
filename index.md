@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kysen's ECS Portfolio!
 
 You can use the [editor on GitHub](https://github.com/KysenT/ECS-Portfolio-KT-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
